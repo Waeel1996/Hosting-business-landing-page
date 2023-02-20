@@ -59,31 +59,62 @@ h3{
     font-family:Roboto Condensed,sans-serif;
     color: #2f4ace;
 }
+.iconbg1{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
 .icon1{
-    margin-top: 69px;
     color: #2f4ace;
+}
+.iconbg2{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
 }
 .icon2{
-    margin-top: 106px;
+   
     color: #2f4ace;
 }
+.iconbg3{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
 .icon3{
-    margin-top: 101px;
     color: #2f4ace;
     rotate: 45deg;
 }
+.iconbg4{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
 .icon4{
-    margin-top: 23px;
-    margin-left: 99px;
     color: #2f4ace;
+}
+.iconbg5{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
 }
 .icon5{
-    margin-top: 106px;
-    margin-left: 99px;
     color: #2f4ace;
 }
+.iconbg6{
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
 .icon6{
-    margin-top: 101px;
-    margin-left: 100px;
     color: #2f4ace;
+}
+.row-line{
+    margin-left: 156px;
 }
