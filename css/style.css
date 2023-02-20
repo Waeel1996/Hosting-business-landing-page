@@ -25,10 +25,10 @@ img{
 .side{
     display: flex;
     background-color: #d3d3d3;
-        width: 100%;
+        width: 403px;
         height: 613px;
         padding-left: 20px;
-        margin-top: 40px;
+        margin-top: 42px;
         margin-left: 125px;
         object-fit: fill;
     }
@@ -60,13 +60,30 @@ h3{
     color: #2f4ace;
 }
 .icon1{
-    margin-left: 349px;
-    margin-top: 77px;
+    margin-top: 69px;
+    color: #2f4ace;
 }
 .icon2{
-    margin-top: 113px;
-    margin-left: 349px;
+    margin-top: 106px;
+    color: #2f4ace;
 }
-.Codeeditor{
-
+.icon3{
+    margin-top: 101px;
+    color: #2f4ace;
+    rotate: 45deg;
+}
+.icon4{
+    margin-top: 23px;
+    margin-left: 99px;
+    color: #2f4ace;
+}
+.icon5{
+    margin-top: 106px;
+    margin-left: 99px;
+    color: #2f4ace;
+}
+.icon6{
+    margin-top: 101px;
+    margin-left: 100px;
+    color: #2f4ace;
 }
