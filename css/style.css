@@ -6,43 +6,37 @@ img{
     margin-top: 90px;
     object-fit: cover;
     object-position: center;
-    height: 611px;
-    width: 848px;
 }
 .caption{
-    position: absolute;
-    top: 308px;
+    margin-top: 200px;
+    margin-left: 40px;
     font-family: Montserrat, sans-serif;
     font-style: normal;
-    font-size: 3.5625rem;
-    font-weight: 700;
-    margin-left: -18px;
+    font-size: 50px;
     color: #2f4ace;
 }
 .buss{
     margin-left: 112px;
 }
 .side{
-    display: flex;
-    background-color: #d3d3d3;
-        width: 403px;
-        height: 613px;
+    background-color: #cbcaca;
+        width: 515px;
+        height: 607px;
         padding-left: 20px;
         margin-top: 42px;
-        margin-left: 125px;
         object-fit: fill;
-    }
-    .link{
-       margin-top: 400px;
-       margin-left: 140px;
-    }
-    .trail{
+}
+.link{
+      text-align: center;
+      margin-top: 50px;
+}
+.trail{
         margin-top: 87px;
-        margin-left: 122px;
-    }
+        margin-left: 161px;
+}
 .subtitle{
     margin-left: 20px;
-    margin-top: 60px;
+    margin-top: 150px;
     text-align: center;
     font-family:Montserrat, sans-serif;
     font-style: normal;
@@ -51,28 +45,28 @@ img{
 }
 .title{
     text-align: center;
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top:20px;
+    margin-left:20px;
 }
 h3{
-    font-size: 1.875rem;
+    font-size:1.875rem;
     font-family:Roboto Condensed,sans-serif;
     color: #2f4ace;
 }
 .iconbg1{
     background-color: #e4e9ff;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    width:70px;
+    height:70px;
+    border-radius:50%;
 }
 .icon1{
     color: #2f4ace;
 }
 .iconbg2{
     background-color: #e4e9ff;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    width:70px;
+    height:70px;
+    border-radius:50%;
 }
 .icon2{
    
@@ -90,26 +84,26 @@ h3{
 }
 .iconbg4{
     background-color: #e4e9ff;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    width:70px;
+    height:70px;
+    border-radius:50%;
 }
 .icon4{
     color: #2f4ace;
 }
 .iconbg5{
     background-color: #e4e9ff;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    width:70px;
+    height:70px;
+    border-radius:50%;
 }
 .icon5{
     color: #2f4ace;
 }
 .iconbg6{
     background-color: #e4e9ff;
-    width: 70px;
-    height: 70px;
+    width:70px;
+    height:70px;
     border-radius: 50%;
 }
 .icon6{
@@ -129,19 +123,19 @@ h3{
 .layout{
     background-color: #cfcfcf;
     width: 460px;
-    min-height: 500px;
-    margin-top: -349px;
-    margin-left: 154px;
+    min-height:500px;
+    margin-top:-349px;
+    margin-left:154px;
 }
 .p1{
-    margin: 80px;
+    margin:80px;
     font-family:sans-serif;
-    font-size: 20px;
+    font-size:20px;
 }
 .icon7{
-    position: absolute;
-    margin-top: 308px;
-    margin-left: -849px;
+    position:absolute;
+    margin-top:259px;
+    margin-left:-849px;
     color: #2f4ace;
 }
 .download{
@@ -149,10 +143,10 @@ h3{
 }
 .img-shadow{
     background-color: #2f4ace;
-    height: 200px;
-    width: 200px;
+    height:200px;
+    width:200px;
     border-radius: 50%;
 }
 .img2{
-    border-radius: 30%;
+    border-radius:5%;
 }
