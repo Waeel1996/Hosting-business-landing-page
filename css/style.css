@@ -1,13 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-h1{
+
+h1 {
     color: red;
 }
-img{
+
+img {
     margin-top: 90px;
     object-fit: cover;
     object-position: center;
 }
-.caption{
+
+.caption {
     margin-top: 200px;
     margin-left: 40px;
     font-family: Montserrat, sans-serif;
@@ -15,190 +18,227 @@ img{
     font-size: 50px;
     color: #2f4ace;
 }
-.buss{
+
+.buss {
     margin-left: 112px;
 }
-.side{
+
+.side {
     background-color: #cbcaca;
-        width: 515px;
-        height: 607px;
-        padding-left: 20px;
-        margin-top: 42px;
-        object-fit: fill;
+    width: 515px;
+    height: 607px;
+    padding-left: 20px;
+    margin-top: 42px;
+    object-fit: fill;
 }
-.link{
-      text-align: center;
-      margin-top: 50px;
+
+.link {
+    text-align: center;
+    margin-top: 50px;
 }
-.trail{
-        margin-top: 87px;
-        margin-left: 161px;
+
+.trail {
+    margin-top: 87px;
+    margin-left: 161px;
 }
-.subtitle{
+
+.subtitle {
     margin-left: 20px;
     margin-top: 150px;
     text-align: center;
-    font-family:Montserrat, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-style: normal;
     font-weight: 700;
     color: #2f4ace;
 }
-.title{
+
+.title {
     text-align: center;
-    margin-top:20px;
-    margin-left:20px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
-h3{
-    font-size:1.875rem;
-    font-family:Roboto Condensed,sans-serif;
+
+h3 {
+    font-size: 1.875rem;
+    font-family: Roboto Condensed, sans-serif;
     color: #2f4ace;
 }
-.iconbg1{
-    background-color: #e4e9ff;
-    width:70px;
-    height:70px;
-    border-radius:50%;
-}
-.icon1{
-    color: #2f4ace;
-}
-.iconbg2{
-    background-color: #e4e9ff;
-    width:70px;
-    height:70px;
-    border-radius:50%;
-}
-.icon2{
-   
-    color: #2f4ace;
-}
-.iconbg3{
+
+.iconbg1 {
     background-color: #e4e9ff;
     width: 70px;
     height: 70px;
     border-radius: 50%;
 }
-.icon3{
+
+.icon1 {
+    color: #2f4ace;
+}
+
+.iconbg2 {
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.icon2 {
+
+    color: #2f4ace;
+}
+
+.iconbg3 {
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.icon3 {
     color: #2f4ace;
     rotate: 45deg;
 }
-.iconbg4{
+
+.iconbg4 {
     background-color: #e4e9ff;
-    width:70px;
-    height:70px;
-    border-radius:50%;
-}
-.icon4{
-    color: #2f4ace;
-}
-.iconbg5{
-    background-color: #e4e9ff;
-    width:70px;
-    height:70px;
-    border-radius:50%;
-}
-.icon5{
-    color: #2f4ace;
-}
-.iconbg6{
-    background-color: #e4e9ff;
-    width:70px;
-    height:70px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
-.icon6{
+
+.icon4 {
     color: #2f4ace;
 }
-.row-line{
+
+.iconbg5 {
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.icon5 {
+    color: #2f4ace;
+}
+
+.iconbg6 {
+    background-color: #e4e9ff;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.icon6 {
+    color: #2f4ace;
+}
+
+.row-line {
     margin-left: 156px;
 }
-.layout-caption{
+
+.layout-caption {
     text-align: center;
-    font-family:Montserrat, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-style: normal;
     font-weight: 700;
     color: #2f4ace;
     padding-top: 80px;
 }
-.layout{
+
+.layout {
     background-color: #cfcfcf;
     width: 460px;
-    min-height:500px;
-    margin-top:-349px;
-    margin-left:154px;
+    min-height: 500px;
+    margin-top: -349px;
+    margin-left: 154px;
 }
-.p1{
-    margin:80px;
-    font-family:sans-serif;
-    font-size:20px;
+
+.p1 {
+    margin: 80px;
+    font-family: sans-serif;
+    font-size: 20px;
 }
-.icon7{
-    position:absolute;
-    margin-top:259px;
-    margin-left:-849px;
+
+.icon7 {
+    position: absolute;
+    margin-top: 259px;
+    margin-left: -849px;
     color: #2f4ace;
 }
-.download{
+
+.download {
     margin-left: 156px;
 }
-.img-shadow{
+
+.img-shadow {
     background-color: #2f4ace;
-    height:200px;
-    width:200px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
 }
-.img2{
-    border-radius:5%;
+
+.img2 {
+    border-radius: 5%;
 }
-.row-bg{
-    background-color: rgb(229, 229, 229);   
+
+.row-bg {
+    background-color: rgb(229, 229, 229);
 }
-.card-title{
+
+.card-title {
     text-align: center;
-    font-family:Montserrat, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-style: normal;
     font-weight: 700;
     color: #2f4ace;
     font-size: 50px;
     margin-top: 30px;
 }
-.card{
+
+.card {
     height: 350px;
 }
-.card-text{
+
+.card-text {
     color: #6a6868;
-    font-family:sans-serif;
+    font-family: sans-serif;
     font-size: 20px;
     margin: 40px 20px 20px 20px;
     text-align: center;
 }
-.card-link1{
+
+.card-link1 {
     margin-left: 105px;
     text-decoration: none;
 }
-.card4{
+
+.card4 {
     margin-bottom: 50px;
 }
-.img3{
+
+.img3 {
     position: absolute;
     right: 206px;
     top: 2740px;
     height: 619px;
 }
-.side-bg{
+
+.side-bg {
     background-color: #cfcfcf;
     height: 602px;
 }
-.faq{
+
+.faq {
     text-align: center;
-    font-family:Montserrat, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-style: normal;
     font-weight: 700;
     color: #2f4ace;
 }
-.p2{
+
+.p2 {
     color: #6a6868;
-    font-family:sans-serif;
+    font-family: sans-serif;
     font-size: 20px;
     text-align: center;
 }
